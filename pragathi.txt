@@ -1,1 +1,2 @@
 welcome to pragathi technologies
+learning devops training
