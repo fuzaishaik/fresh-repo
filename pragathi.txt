@@ -1,1 +1,2 @@
-welcome to pragathi technologies
+Welcome to pragathi technologies
+Welocome to devops training
