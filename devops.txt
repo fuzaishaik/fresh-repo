@@ -1,0 +1,3 @@
+devops is all about automation
+docker
+kubernetes is imporant tool
