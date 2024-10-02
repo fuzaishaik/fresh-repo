@@ -1,3 +1,4 @@
 devops is all about automation
 ansible & cicd
 kubernetes is imporant tool to deploy our pods
+along with must need have knowledge on cloud
